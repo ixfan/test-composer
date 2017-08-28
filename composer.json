@@ -1,6 +1,7 @@
 {
     "name": "zhuangminxue/test-composer",
     "description": "composer test",
+    "minimum-stability": "dev",
     "license": "MIT",
     "keywords": ["composer","test"],
     "version": "1.0.0",
